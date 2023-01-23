@@ -1,0 +1,106 @@
+{
+    "categories": [
+        {
+            "name": "Sport",
+            "image": "/assets/categories/sports.png"
+        },
+        {
+            "name": "Transport",
+            "image": "/assets/categories/transport.png"
+        },
+        {
+            "name": "Online - Offline",
+            "image": "/assets/categories/online.png"
+        }
+
+    ],
+    "Games": {
+        "Sport": [
+            {
+                "name": "das Golf",
+                "image": "https://artificialvoid.com/8732647823/golf.png"
+            },
+            {
+                "name": "der Football",
+                "image": "https://artificialvoid.com/8732647823/football.png"
+            },
+            {
+                "name": "die Stärken",
+                "image": "https://artificialvoid.com/8732647823/strenghten.png"
+            },
+            {
+                "name": "der Volleyball",
+                "image": "https://artificialvoid.com/8732647823/volleyball.png"
+            },
+            {
+                "name": "der Amerikanischer Football",
+                "image": "https://artificialvoid.com/8732647823/americanfootball.png"
+            },
+            {
+                "name": "der Basketball",
+                "image": "https://artificialvoid.com/8732647823/basketball.png"
+            },
+            {
+                "name": "das Billiard",
+                "image": "https://artificialvoid.com/8732647823/billiards.png"
+            },
+            {
+                "name": "das Badminton",
+                "image": "https://artificialvoid.com/8732647823/badminton.png"
+            },
+            {
+                "name": "das Tennis",
+                "image": "https://artificialvoid.com/8732647823/tennis.png"
+            }
+        ], "Online - Offline": [
+            {
+                "name": "die Achtung",
+                "image": "/assets/Online_oder_Offline/Achtung.png"
+            },
+            {
+                "name": "die Bergwacht",
+                "image": "/assets/Online_oder_Offline/Bergwacht.jpg"
+            },
+            {
+                "name": "der Delfin",
+                "image": "/assets/Online_oder_Offline/Delfin.jpg"
+            },
+            {
+                "name": "die Eins",
+                "image": "/assets/Online_oder_Offline/Eins.jpg"
+            },
+            {
+                "name": "der Hubschrauber",
+                "image": "/assets/Online_oder_Offline/Hubschrauber.jpg"
+            },
+            {
+                "name": "das Pech",
+                "image": "/assets/Online_oder_Offline/Pech.png"
+            },
+            {
+                "name": "die Werbung",
+                "image": "/assets/Online_oder_Offline/Werbung.png"
+            },
+            {
+                "name": "fake news",
+                "image": "/assets/Online_oder_Offline/fakenews.png"
+            },
+            {
+                "name": "die Überraschung",
+                "image": "/assets/Online_oder_Offline/ubberraschung.jpg"
+            },
+            {
+                "name": "die Bitte",
+                "image": "/assets/Online_oder_Offline/Bitte.png"
+            },
+            {
+                "name": "der Redakteur",
+                "image": "/assets/Online_oder_Offline/redaktor.jfif"
+            },
+            {
+                "name": "zu fünft",
+                "image": "/assets/Online_oder_Offline/five.png"
+            }
+        ]
+    }
+}
